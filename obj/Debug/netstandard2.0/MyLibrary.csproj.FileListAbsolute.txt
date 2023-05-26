@@ -1,0 +1,9 @@
+/root/MyLibrary/bin/Debug/netstandard2.0/MyLibrary.deps.json
+/root/MyLibrary/bin/Debug/netstandard2.0/MyLibrary.dll
+/root/MyLibrary/bin/Debug/netstandard2.0/MyLibrary.pdb
+/root/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.csprojAssemblyReference.cache
+/root/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.AssemblyInfoInputs.cache
+/root/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.AssemblyInfo.cs
+/root/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.csproj.CoreCompileInputs.cache
+/root/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.dll
+/root/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.pdb
